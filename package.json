@@ -1,0 +1,20 @@
+{
+  "name": "steamjs",
+  "version": "1.0.0",
+  "description": "steamjs - A lightweight JavaScript implementation of the IAPWS-97 steam tables for calculating thermodynamic properties of water and steam.",
+  "homepage": "https://github.com/marciorvneto/steamjs#readme",
+  "bugs": {
+    "url": "https://github.com/marciorvneto/steamjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciorvneto/steamjs.git"
+  },
+  "license": "MIT",
+  "author": "Márcio Vianna",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
